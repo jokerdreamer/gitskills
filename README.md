@@ -1,3 +1,5 @@
 # gitskills
 
-add something in master
+add
+
+create what the fuck
