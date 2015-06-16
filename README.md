@@ -1,6 +1,6 @@
 # gitskills
 
-add
+add fix
 
 create what the fuck
 
